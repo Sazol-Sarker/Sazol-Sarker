@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazol-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="sazol-sarker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazol-sarker" alt="sazol-sarker" /></a> </p>
-<p align="left"><img src="https://tenor.com/view/coding-gif-24625099" alt="coding" align="right" width="400"/></p>
+<p align="left"><img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding" align="right" width="350" height="220"/></p>
 
 - 🔭 I’m currently working on [ShopKart-eMarket](https://github.com/Sazol-Sarker/ShopKart-eMarket.git)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sazolsarker1@gmail.com**
 
-- ⚡ Fun fact **Wish i were a TimeStopper!**
+- ⚡ Fun fact : **Wish I were a TimeStopper!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
