@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazol-sarker" alt="sazol-sarker" /></a> </p>
 <p align="left"><img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding" align="right" width="350" height="220"/></p>
 
-- 🔭 I’m currently working on [ShopKart-eMarket](https://github.com/Sazol-Sarker/ShopKart-eMarket.git)
+- 🔭 I’m currently working on [Student-Info-Management](https://github.com/Sazol-Sarker/Student-Info-Management.git)
 
-- 🌱 I’m currently learning **Django , NodeJs , PHP**
+- 🌱 I’m currently learning **ASP.NET, REACT, NodeJs, Laravel**
 
 - 💬 Ask me about **Competitive programming , Web development**
 
