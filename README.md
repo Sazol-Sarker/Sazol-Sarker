@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Student-Info-Management](https://github.com/Sazol-Sarker/Student-Info-Management.git)
 
-- 🌱 I’m currently learning **ASP.NET, REACT, NodeJs, Laravel**
+- 🌱 I’m currently learning **REACT, Laravel**
 
 - 💬 Ask me about **Competitive programming , Web development**
 
