@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Student-Info-Management](https://github.com/Sazol-Sarker/Student-Info-Management.git)
 
-- 🌱 I’m currently learning **REACT, Laravel**
+- 🌱 I’m currently learning **ML, Deep learning, REACT, Django, Laravel**
 
-- 💬 Ask me about **Competitive programming , Web development**
+- 💬 Ask me about **Competitive programming , ML enthusiast, Web development**
 
 - 📫 How to reach me **sazolsarker1@gmail.com**
 
