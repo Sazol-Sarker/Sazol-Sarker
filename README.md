@@ -6,11 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazol-sarker" alt="sazol-sarker" /></a> </p>
 <p align="left"><img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding" align="right" width="350" height="220"/></p>
 
-- 🔭 I’m currently working on [Student-Info-Management](https://github.com/Sazol-Sarker/Student-Info-Management.git)
+- 🔭 I’m currently working on [Boi-Poka-With-React-Router
+](https://github.com/Sazol-Sarker/Boi-Poka-With-React-Router.git)
 
-- 🌱 I’m currently learning **ML, Deep learning, REACT, Django, Laravel**
+- 🌱 I’m currently learning **REACT, Node.js, ML, Deep learning**
 
-- 💬 Ask me about **Competitive programming , ML enthusiast, Web development**
+- 💬 Ask me about **Competitive programming, Web development, ML enthusiast**
 
 - 📫 How to reach me **sazolsarker1@gmail.com**
 
