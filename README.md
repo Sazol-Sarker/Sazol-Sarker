@@ -1,4 +1,5 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://i.ibb.co.com/S4wzfXyB/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Sazol Sarker</h1>
 <h3 align="center">A passionate competitive programmer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazol-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="sazol-sarker" /> </p>
