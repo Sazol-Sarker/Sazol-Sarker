@@ -6,12 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazol-sarker" alt="sazol-sarker" /></a> </p>
 <p align="left"><img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding" align="right" width="350" height="220"/></p>
 
-- 🔭 I’m currently working on [Boi-Poka-With-React-Router
-](https://github.com/Sazol-Sarker/Boi-Poka-With-React-Router.git)
+- 🔭 I’m currently working on [bistro-boss-restaurant
+](https://github.com/Sazol-Sarker/bistro-boss-restaurant-client.git)
 
-- 🌱 I’m currently learning **REACT, Node.js, ML, Deep learning**
+- 🌱 I’m currently learning **REACT, Node.js, AI **
 
-- 💬 Ask me about **Competitive programming, Web development, ML enthusiast**
+- 💬 Ask me about **Competitive programming, Web development, ML**
 
 - 📫 How to reach me **sazolsarker1@gmail.com**
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sazol sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazol sarker" height="30" width="40" /></a>
-<a href="https://kaggle.com/sazol sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sazol sarker" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sazol-sarker-63832818b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazol sarker" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sazol17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sazol sarker" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sazol_ss1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sazol_ss1998" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sazolsarker1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sazolsarker1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sazol_sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sazol_sarker" height="30" width="40" /></a>
