@@ -1,4 +1,3 @@
-![MasterHead](https://i.ibb.co.com/S4wzfXyB/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Sazol Sarker</h1>
 <h3 align="center">A passionate competitive programmer from Bangladesh</h3>
